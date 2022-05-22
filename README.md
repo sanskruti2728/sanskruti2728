@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pf7IOU9p8DzkvqiOxPPxU9Un_tTq7inO/view?usp=sharing](https://drive.google.com/file/d/1-YrNDrmvR2naqiaVou5U4DcJW095r9Ja/view?usp=sharing) 
 
-- ⚡ Fact **I’d most like to be remembered for helping others**
+- <!--⚡ Fact ****-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,7 @@
  
 <!-- <p><img align="center" border=5BCDEC& src="https://github-readme-stats.vercel.app/api/top-langs?username=janvi-thakkar&show_icons=true&locale=en&layout=compact" alt="janvi-thakkar" /></p>-->
 <br/> 
-<br/>
+<br/><!--
 <p><img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=sanskriti2728&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="sanskruti2728" /></p>
 </div>
 
