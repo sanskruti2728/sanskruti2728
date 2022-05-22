@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sanskruti-panchal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskruti-panchal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskruti panchal" height="30" width="40" /></a>
-  <a href="https://www.figma.com/@snskriti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/figma.svg" alt="snskriti" height="30" width="40" /></a>
+  <a href="https://www.figma.com/@snskriti" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="snskriti" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
