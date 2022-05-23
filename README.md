@@ -24,7 +24,7 @@
 <div align="left">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskruti2728&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=5BCDEC&hide_border=true&stroke=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" align="center" />
  
-<!-- <p><img align="center" border=5BCDEC& src="https://github-readme-stats.vercel.app/api/top-langs?username=janvi-thakkar&show_icons=true&locale=en&layout=compact" alt="janvi-thakkar" /></p>-->
+<!-- <p><img align="center" border=5BCDEC& src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>-->
 <br/> 
 <br/><!--
 <p><img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=sanskriti2728&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="sanskruti2728" /></p>
